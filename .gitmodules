@@ -1,0 +1,18 @@
+[submodule "NAI-SVC-Elaina"]
+	path = NAI-SVC-Elaina
+	url = git@github.com:T-K-233/NAI-SVC.git
+[submodule "NAI-SVC-Origami"]
+	path = NAI-SVC-Origami
+	url = git@github.com:T-K-233/NAI-SVC.git
+[submodule "NAI-SVC-UMP45"]
+	path = NAI-SVC-UMP45
+	url = git@github.com:T-K-233/NAI-SVC.git
+[submodule "NAI-SVC-Tomori"]
+	path = NAI-SVC-Tomori
+	url = git@github.com:T-K-233/NAI-SVC.git
+[submodule "NAI-SVC-HuTao"]
+	path = NAI-SVC-HuTao
+	url = git@github.com:T-K-233/NAI-SVC.git
+[submodule "Inference"]
+	path = Inference
+	url = ./Inference/
